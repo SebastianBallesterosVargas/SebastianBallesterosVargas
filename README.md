@@ -86,11 +86,15 @@
                 <div> SonarQube </div></td>
     </tr>
     <tr>
-        <td colspan="9" align="center"><h3>Most Used Lenguages</h3></td>
+        <td colspan="4" align="center"><h3>Most Used Lenguages</h3></td>
+        <td colspan="5" align="center"><h3>GitHub Stats</h3></td>
     </tr>
     <tr>
-        <td colspan="9" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianballesterosvargas&show_icons=true&layout=compact&locale=en&theme=transparent&hide_border=true&hide_title=true" alt="sebastianballesterosvargas" />
+        <td colspan="4" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianballesterosvargas&show_icons=true&layout=compact&locale=en&theme=transparent&hide_border=true&hide_title=true&card_width=50%" alt="sebastianballesterosvargas" />
+        </td>
+        <td colspan="5" align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=sebastianballesterosvargas&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&card_width=50%" alt="sebastianballesterosvargas" />
         </td>
     </tr>
 </table>
