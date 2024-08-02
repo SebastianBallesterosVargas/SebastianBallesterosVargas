@@ -1,5 +1,5 @@
 - 👋 **Hi, I'm Sebastian**
-- 🌱 **I’m currently learning a lot of NestJs and Angular-v18**
+- 🌱 **I’m currently learning a lot of NodeJs and Angular-v18**
 - 🤓 **I like Coding and Video Games!**
 
 <h3 align="left">Stack:</h4>
