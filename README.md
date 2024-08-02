@@ -52,9 +52,12 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
                 <div> TypeScript </div></th>
         <th>
-            <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<!--             <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
-                <div> NestJs </div></th>
+                <div> NestJs </div></th> -->
+            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+                <div> NodeJs </div></th>
         <th>
             <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnet-core" width="40" height="40"/></a>
