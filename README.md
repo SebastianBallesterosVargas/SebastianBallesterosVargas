@@ -2,8 +2,10 @@
 - 🌱 **I’m currently learning a lot of NodeJs and Angular-v18**
 - 🤓 **I like Coding and Video Games!**
 
-<h3 align="left">Stack:</h4>
 <table cellpadding="5" cellspacing="0" border="0" align="left">
+    <tr>
+        <td colspan="9" align="center"><h3>Stack</h3></td>
+    </tr>
     <tr height="100px">
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -84,7 +86,7 @@
                 <div> SonarQube </div></td>
     </tr>
     <tr>
-        <td colspan="9" align="center"> Most Used Lenguages</td>
+        <td colspan="9" align="center"><h3>Most Used Lenguages</h3></td>
     </tr>
     <tr>
         <td colspan="9" align="center">
