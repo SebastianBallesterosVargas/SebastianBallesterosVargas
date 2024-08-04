@@ -1,8 +1,16 @@
+<div align="end">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=sebastianballesterosvargas&label=Profile%20Views&color=1&icon=5&pretty=true" />
+    </a>
+</div>
+
 - 👋 **Hi, I'm Sebastian**
 - 🌱 **I’m currently learning a lot of NodeJs and Angular-v18**
 - 🤓 **I like Coding and Video Games!**
 
-<table cellpadding="5" cellspacing="0" border="0" align="left">
+<hr>
+
+<table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
         <td colspan="9" align="center"><h3>Stack</h3></td>
     </tr>
