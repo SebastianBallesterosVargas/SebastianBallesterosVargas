@@ -12,7 +12,7 @@
 
 <table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
-        <td colspan="9" align="center"><h3>Stack</h3></td>
+        <td colspan="10" align="center"><h3>Stack</h3></td>
     </tr>
     <tr height="100px">
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
@@ -28,13 +28,17 @@
                 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
                 <div> Angular </div></td>
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
+            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="40" height="40"/></a>
+                <div> .Net </div> <div> Framework </div></td>
+        <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
                 <div> C# </div></td>
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
-            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="40" height="40"/></a>
-                <div> .Net </div> <div> Framework </div></td>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+                <div> Git </div></td>
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
             <a href="https://flutter.dev" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
@@ -48,9 +52,9 @@
                 <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a>
                 <div> Jasmine </div></td>
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-                <div> Git </div></td>
+            <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
+                <div> Jest </div></td>
     </tr>
     <tr height="100px">
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
@@ -68,6 +72,10 @@
             <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
                 <div> NodeJs </div></td>
+        <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
+            <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" alt="expressjs" width="40" height="40"/></a>
+                <div> Express </div></td>
         <td width="10%" cellpadding="5" cellspacing="0" border="0" align="center">
             <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnet-core" width="40" height="40"/></a>
@@ -94,11 +102,11 @@
                 <div> SonarQube </div></td>
     </tr>
     <tr>
-        <td colspan="4" align="center"><h3>Most Used Lenguages</h3></td>
+        <td colspan="5" align="center"><h3>Most Used Lenguages</h3></td>
         <td colspan="5" align="center"><h3>GitHub Stats</h3></td>
     </tr>
     <tr>
-        <td colspan="4" align="center">
+        <td colspan="5" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianballesterosvargas&show_icons=true&layout=compact&locale=en&theme=transparent&hide_border=true&hide_title=true&card_width=50%" alt="sebastianballesterosvargas" />
         </td>
         <td colspan="5" align="center">
