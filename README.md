@@ -5,7 +5,7 @@
 </div>
 
 - 👋 **Hi, I'm Sebastian**
-- 🌱 **I’m currently learning a lot of NodeJs and Angular-v18**
+- 🌱 **I’m currently learning a lot of NodeJs and AWS**
 - 🤓 **I like Coding and Video Games!**
 
 <hr>
